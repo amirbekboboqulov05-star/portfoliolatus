@@ -2,6 +2,8 @@
 
 Personal portfolio website for Boboqulov Amirbek, built with HTML, CSS, and JavaScript.
 
+Published site: https://amirbekboboqulov05-star.github.io/portfoliolatus/
+
 ## Run locally
 
 Open `index.html` in a browser.
